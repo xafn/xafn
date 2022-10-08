@@ -1,5 +1,5 @@
 <h2 align="center">hey, i'm afn</h2>
-<h4 align="center">i dont do much yet | <a href="https://afn.lol" target="_blank">afn.lol</a></h4>
+<h4 align="center">i don't do much yet | <a href="https://afn.lol" target="_blank">afn.lol</a></h4>
 <p align="center">
  <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=afnzmn&show_icons=true&bg_color=ffffff00&text_color=cdd6f4&icon_color=95b7e6&title_color=95b7e6&border_color=bac2de32&border_radius=16">
