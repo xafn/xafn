@@ -1,5 +1,5 @@
 <h2 align="center">hey, i'm afn</h2>
-<h4 align="center">just an idiot artist who picked up web dev for some reason | <a href="https://afn.lol" target="_blank">afn.lol</a></h4>
+<p align="center">just an idiot artist who picked up web dev for some reason | <a href="https://afn.lol" target="_blank">afn.lol</a></p>
 
 <p align="center">
  <picture align="center">
