@@ -7,6 +7,8 @@
   <br />
  🌎 <a href="https://afn.lol" target="_blank">afn.lol</a>
  <br/>
+ 💬 <a href="https://discord.com/users/420043923822608384" target="_blank">afn#0128</a>
+  <br/>
   ✉️ <a href="mailto:afn.lol" target="_blank">_@afn.lol</a>
   <br/>
   ☕️ <a href="https://ko-fi.com/affan" target="_blank">@affan</a>
