@@ -2,7 +2,7 @@
  <h2>
   hey, i'm afn.
  </h2>
-  I'm a 15 year old digitial artist, UI designer, and web developer currently residing in Canada. Always eager to learn new things.
+  I'm a 16 year old digitial artist, UI designer, and web developer currently residing in Canada. Always eager to learn new things.
  <br />
   <br />
  🌎 <a href="https://afn.lol" target="_blank">afn.lol</a>
