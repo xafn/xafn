@@ -1,7 +1,7 @@
 <samp>
-    <h2>
+    <h3>
         hey, i'm afn.
-    </h2>
+    </h3>
     I'm a 16 year old digitial artist, UI designer, and web developer currently residing in Canada. Always eager to learn new things. 
     <br />
     <br />
