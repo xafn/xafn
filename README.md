@@ -7,7 +7,7 @@
     <br />
     <br />
     <h2></h2>
-    🌎 <a href="https://afn.im" target="_blank">afn.lol</a>
+    🌎 <a href="https://afn.im" target="_blank">afn.im</a>
     <br/>
     💬 <a href="https://discord.com/users/420043923822608384" target="_blank">affn</a>
     <br/>
