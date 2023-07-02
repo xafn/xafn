@@ -7,11 +7,11 @@
     <br />
     <br />
     <h2></h2>
-    🌎 <a href="https://afn.lol" target="_blank">afn.lol</a>
+    🌎 <a href="https://afn.im" target="_blank">afn.lol</a>
     <br/>
     💬 <a href="https://discord.com/users/420043923822608384" target="_blank">affn</a>
     <br/>
-    ✉️ <a href="mailto:afn.lol" target="_blank">_@afn.lol</a>
+    ✉️ <a href="mailto:hey@afn.im" target="_blank">hey@afn.im</a>
     <br/>
     ☕️ <a href="https://ko-fi.com/affan" target="_blank">@affan</a>
 </samp>
