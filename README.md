@@ -3,7 +3,7 @@
     I'm a 17 year old digital artist, UI designer, and web developer currently residing in Canada. Always eager to learn new things. 
     <br />
     <br />
-    <code>svelte</code> <code>ts</code> <code>html</code> <code>scss</code> <code>tailwind</code> <code>python</code>
+    <code>svelte</code> <code>ts</code> <code>js</code> <code>react</code> <code>html</code> <code>scss</code> <code>tailwind</code> <code>python</code>
     <br />
     <br />
     <h2></h2>
