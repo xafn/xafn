@@ -1,9 +1,9 @@
 <samp>
     <h3>hey, i'm afn.</h3>
-    I'm an 18 year old digital artist, UI designer, and web developer currently residing in Canada. Always eager to learn new things. 
+    I'm a first year Computer Science student at the <a href="https://cs.uwaterloo.ca/" target="_blank">University of Waterloo</a>. I love building: building quickly, building aesthetically. Shoot me a an email for any inquiries.
     <br />
     <br />
-    <code>svelte</code> <code>ts</code> <code>js</code> <code>react</code> <code>html</code> <code>scss</code> <code>tailwind</code> <code>python</code>
+    <code>react</code> <code>svelte</code> <code>expo</code>  <code>ts</code> <code>js</code> <code>html</code> <code>scss</code> <code>tailwind</code> <code>python</code>
     <br />
     <br />
     <h2></h2>
